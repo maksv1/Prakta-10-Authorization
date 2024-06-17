@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\source\\repos\\Praktos10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD5D550-60BF-4098-849F-F0BC3660FDFE}|Praktos10\\Praktos10.csproj|C:\\Users\\maks\\source\\repos\\Praktos10\\praktos10\\vrach.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACD5D550-60BF-4098-849F-F0BC3660FDFE}|Praktos10\\Praktos10.csproj|solutionrelative:praktos10\\vrach.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD5D550-60BF-4098-849F-F0BC3660FDFE}|Praktos10\\Praktos10.csproj|c:\\users\\maks\\source\\repos\\praktos10\\praktos10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACD5D550-60BF-4098-849F-F0BC3660FDFE}|Praktos10\\Praktos10.csproj|solutionrelative:praktos10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD5D550-60BF-4098-849F-F0BC3660FDFE}|Praktos10\\Praktos10.csproj|C:\\Users\\maks\\source\\repos\\Praktos10\\praktos10\\vrach.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD5D550-60BF-4098-849F-F0BC3660FDFE}|Praktos10\\Praktos10.csproj|solutionrelative:praktos10\\vrach.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD5D550-60BF-4098-849F-F0BC3660FDFE}|Praktos10\\Praktos10.csproj|C:\\Users\\maks\\source\\repos\\Praktos10\\praktos10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD5D550-60BF-4098-849F-F0BC3660FDFE}|Praktos10\\Praktos10.csproj|solutionrelative:praktos10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vrach.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\Praktos10\\Praktos10\\Vrach.xaml.cs",
+              "RelativeDocumentMoniker": "Praktos10\\Vrach.xaml.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\Praktos10\\Praktos10\\Vrach.xaml.cs",
+              "RelativeToolTip": "Praktos10\\Vrach.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:49:15.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vrach.xaml",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\Praktos10\\Praktos10\\Vrach.xaml",
+              "RelativeDocumentMoniker": "Praktos10\\Vrach.xaml",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\Praktos10\\Praktos10\\Vrach.xaml",
+              "RelativeToolTip": "Praktos10\\Vrach.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T11:25:55.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\Praktos10\\Praktos10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Praktos10\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\Praktos10\\Praktos10\\MainWindow.xaml",
+              "RelativeToolTip": "Praktos10\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T11:25:11.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\Praktos10\\Praktos10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Praktos10\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\Praktos10\\Praktos10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Praktos10\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:25:09.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

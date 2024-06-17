@@ -1,0 +1,16 @@
+C:\Users\maks\source\repos\Praktos10\Praktos10\bin\Debug\Praktos10.exe.config
+C:\Users\maks\source\repos\Praktos10\Praktos10\bin\Debug\Praktos10.exe
+C:\Users\maks\source\repos\Praktos10\Praktos10\bin\Debug\Praktos10.pdb
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Praktos10.csproj.AssemblyReference.cache
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Vrach.g.cs
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\App.g.cs
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Praktos10_MarkupCompile.cache
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Vrach.baml
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Praktos10.g.resources
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Praktos10.Properties.Resources.resources
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Praktos10.csproj.GenerateResource.cache
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Praktos10.csproj.CoreCompileInputs.cache
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Praktos10.exe
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\Praktos10.pdb
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\MainWindow.baml
+C:\Users\maks\source\repos\Praktos10\Praktos10\obj\Debug\MainWindow.g.cs
